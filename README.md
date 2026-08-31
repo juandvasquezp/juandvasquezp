@@ -11,7 +11,7 @@ My goal is to keep learning, improving, and making meaningful contributions to t
 
 | Project               | Description                                              | Technologies |
 |-----------------------|----------------------------------------------------------|--------------|
-| **Thotex Frontend**   | Frontend application for Thotex built with Vue           | Advanced Vue.js       |
+| [Thotex Frontend](https://github.com/Thotex/Thotex_frontend)   | Frontend application for Thotex built with Vue           | Advanced Vue.js       |
 | [Recipy](https://github.com/recipy-swarch/recipy)            | A platform to create, organize, and share recipes        | Microservices, Next.js + TS, Nest.js, FastAPI, Flask, PostgreSQL, MongoDB |
 | [CocoCash](https://github.com/TeamC-swarchqua/cococash) | Cloud-Native digital wallet app concept              | AWS, Terraform, Go, Python, React.js, etc.          |
 | **TetrisPlayer**      | AI algorithm that plays Tetris on tetr.io                | Python       |

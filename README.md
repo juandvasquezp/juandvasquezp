@@ -13,7 +13,7 @@ My goal is to keep learning, improving, and making meaningful contributions to t
 |-----------------------|----------------------------------------------------------|--------------|
 | [Thotex Frontend](https://github.com/Thotex/Thotex_frontend)   | Frontend application for Thotex built with Vue           | Advanced Vue.js       |
 | [Recipy](https://github.com/recipy-swarch/recipy)            | A platform to create, organize, and share recipes        | Microservices, Next.js + TS, Nest.js, FastAPI, Flask, PostgreSQL, MongoDB |
-| [CocoCash](https://github.com/TeamC-swarchqua/cococash) | Cloud-Native digital wallet app concept              | AWS, Terraform, Go, Python, React.js, etc.          |
+| [CocoCash](https://github.com/TeamC-swarchqua/cococash) & [CI](https://gitlab.com/unal_misc_gasp/proyecto_final_grupo_3) | Cloud-Native digital wallet app concept              | AWS, Terraform, Go, Python, React.js, etc.          |
 | **TetrisPlayer**      | AI algorithm that plays Tetris on tetr.io                | Python       |
 | **Recipy Social**     | Social network for cooking and gastronomy enthusiasts    | Django         |
 | **Revancify + Shizuku** | TUI in Bash to automatically install patched apps | Bash |
